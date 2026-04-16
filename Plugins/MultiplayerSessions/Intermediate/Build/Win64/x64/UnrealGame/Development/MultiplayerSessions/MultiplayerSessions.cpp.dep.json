@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\ue5.6_multiplaye\\mp_bp\\plugins\\multiplayersessions\\source\\multiplayersessions\\private\\multiplayersessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\ue5.6_multiplaye\\mp_bp\\intermediate\\build\\win64\\x64\\mp_bp\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\ue5.6_multiplaye\\mp_bp\\plugins\\multiplayersessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\multiplayersessions\\definitions.multiplayersessions.h",
+            "c:\\unreal projects\\ue5.6_multiplaye\\mp_bp\\plugins\\multiplayersessions\\source\\multiplayersessions\\public\\multiplayersessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
